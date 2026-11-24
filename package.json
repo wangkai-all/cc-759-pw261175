@@ -1,0 +1,11 @@
+{
+  "name": "bidirectional-calibration",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Synthetic two-device calibration app: structural errors-in-variables fit, censoring, changepoint selection, conversion with propagated uncertainty.",
+  "scripts": {
+    "test": "node --test tests/",
+    "serve": "node scripts/serve.js"
+  }
+}
